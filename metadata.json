@@ -1,0 +1,6 @@
+{
+  "name": "AI Education Pakistan",
+  "description": "The premier AI education landing page in Pakistan, bridging the gap with localized curricula, scholarship calculators, and career roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
